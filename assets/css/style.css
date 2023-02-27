@@ -68,3 +68,11 @@ a{
     margin-right: 1rem;
     
 }
+#location{
+    background: url(/assets/img/COP27_PR_v2.jpg);
+    height: 20vh;
+}
+#location .stickers p{
+    line-height: 1rem;
+    
+}
